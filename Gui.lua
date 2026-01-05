@@ -305,7 +305,7 @@ end
 -- ============================================
 -- SECURITY LOADER
 -- ============================================
-local SecurityLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/akmiliadevi/NewGui/refs/heads/main/SecurityLoader.lua"))()
+local SecurityLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/Azello-XD/Remedial/refs/heads/main/SecurityLoader.lua"))()
 
 -- Load all modules
 local instant = SecurityLoader.LoadModule("instant")
